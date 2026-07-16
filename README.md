@@ -10,7 +10,7 @@ No API key required for the kernel path. Nothing pretends to be a model.
    agent works, the repo does not assume a specific one).
 2. **Clone this repo:**
    ```bash
-   git clone https://github.com/<your-username>/agentic-starter.git
+   git clone https://github.com/ishaanjayaswal-dotcom/agentic-starter.git
    cd agentic-starter
    ```
 3. **Run the first command** (proves the kernel with zero setup, zero API key):
