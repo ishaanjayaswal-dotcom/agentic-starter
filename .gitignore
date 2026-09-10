@@ -8,3 +8,7 @@ venv/
 .mypy_cache/
 .DS_Store
 Thumbs.db
+
+# orchestrator loop scratch (not product)
+vault/job-note.md
+vault/tool-surface-check.md
